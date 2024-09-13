@@ -7,4 +7,6 @@
 
 [Яндекс](https://www.yandex.ru "яндекс")  
 
-`mkdir progect`  
+```mkdir progect
+```
+
